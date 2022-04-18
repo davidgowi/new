@@ -11,7 +11,7 @@
                     { "title": "ESMO (Cslide)", "years": [2013,2019] }
                  ] },
                  { "title": "Trial Registries", "data":[
-                     { "title": "CTGov" }
+                      { "title": "CTGov", "hasValidation": "true" }
                  ] },
                  { "title": "Pharma Organizations", "data":[
                     { "title": "Pipeline" },
