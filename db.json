@@ -1,0 +1,48 @@
+{
+   "posts": [
+        { "title": "filters", "data": [
+            { "title": "Data Sources", "data": [
+                { "title": "Conference", "data": [ 
+                    { "title": "ACCR", "years": [2021,2022,2019] },
+                    { "title": "ASCO", "years": [2021,2020,2019] },
+                    { "title": "ASHI", "years": [2022,2019] },
+                    { "title": "EHA", "years": [2017,2019] },
+                    { "title": "EULAR", "years": [2022,2019] },
+                    { "title": "ESMO (Cslide)", "years": [2013,2019] }
+                 ] },
+                 { "title": "Trial Registries", "data":[
+                     { "title": "CTGov" }
+                 ] },
+                 { "title": "Pharma Organizations", "data":[
+                    { "title": "Pipeline" },
+                    { "title": "Technology" },
+                    { "title": "Press Relaese" },
+                    { "title": "Investors" },
+                    { "title": "Publications" },
+                    { "title": "Presentations" },
+                    { "title": "Financial and Feelings" }
+                ] },
+                { "title": "RSS Feeds", "data": [
+                    { "title": "Google Alerts" },
+                    { "title": "PubmeD RSS Feeds" },
+                    { "title": "Press Relaese RSS Feed", "data": [
+                        { "title": "PRWeb" },
+                        { "title": "PRNewsWire" },
+                        { "title": "BusinessWire Health" },
+                        { "title": "Globenewswire" }
+                    ] },
+                    { "title": "Regulatory Organisation RSS Feed" }
+                ] }
+            ] },
+            { "title": "Data set", "data": [] },
+            { "title": "Variants", "data": [] },
+            { "title": "Relevance Status", "data": [] },
+            { "title": "Bookmarks", "data": [] }
+        ]},
+        { "title": "concepts", "data": [
+            { "title": "Trial Identifiers", "data": [] },
+            { "title": "Drugs", "data": [] },
+            { "title": "Developers", "data": [] }
+        ]}
+    ]
+}
